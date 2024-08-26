@@ -23,7 +23,7 @@ To use this CLI tool, you need to have Node.js installed. Follow these steps to 
 To run the CLI commands globally, you need to link the project:
     `npm link`
 
-This command will create a symbolic link in your system’s global package bin directory. Now you can use task-cli commands from anywhere.
+This command will create a symbolic link in your system’s global package bin directory. Now you can use github-activity commands from anywhere.
 
 
 ## Features
