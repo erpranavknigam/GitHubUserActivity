@@ -1,0 +1,27 @@
+{
+  "name": "githubuseractivity",
+  "version": "1.0.0",
+  "description": "Displaying User's Github activity based on the userId using git api",
+  "main": "index.js",
+  "scripts": {
+    "test": "github-activity"
+  },
+  "bin": {
+    "github-activity": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "GithubUserActivity"
+  },
+  "keywords": [
+    "Github",
+    "user",
+    "activity"
+  ],
+  "author": "pranavkant nigam",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.5",
+    "commander": "^12.1.0"
+  }
+}
