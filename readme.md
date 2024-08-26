@@ -59,4 +59,4 @@ To use the CLI tool, run the following command:
     github-activity <username>
     ```
 github-activity: The command to invoke the CLI tool.
-<username>: Replace this with the GitHub username whose recent activities you want to query.
+```<username>```: Replace this with the GitHub username whose recent activities you want to query.
